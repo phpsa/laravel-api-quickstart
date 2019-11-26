@@ -1,11 +1,22 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+## About this Quickstart
+Using Laravel as a base we have added the following packages in order to streamline your initial API:
+* [custom-d/api-authentication](https://git.customd.com/composer/cd-laravel-api-auth) - to deal with authentication quickstart endpoints
+* [laravel/passport](https://laravel.com/docs/6.x/passport) - Laravels Own passport package -
+* [phpsa/laravel-api-controller](https://github.com/phpsa/laravel-api-controller) - Quick APi endpoints from your models
+* [spatie/laravel-permission](https://docs.spatie.be/laravel-permission/v3/introduction/) - Role based permissions
+
+**Tools to help during development**
+* [barryvdh/laravel-ide-helper]
+* [beyondcode/laravel-self-diagnosis]
+* [nunomaduro/phpinsights]
+* [nunomaduro/collision]
+* [roave/security-advisories]
+* [squizlabs/php_codesniffer]
+
+## Usage:
+see https://github.com/phpsa/laravel-api-quickstart/wiki
 
 ## About Laravel
 

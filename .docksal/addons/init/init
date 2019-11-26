@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# cd $PROJECT_ROOT/
+
+# fin artisan storage:link
+# fin artisan migrate
+# fin artisan passport:install
+# fin artisan inspire
